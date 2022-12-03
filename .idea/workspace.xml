@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e711943b-62d9-40ad-af00-df5b47a886a7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="2I86IB7SNTouZvhYPhJxsFyibZl" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/contact/image" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Азиз\OneDrive\Рабочий стол\MYPROJECT\contact" />
+      <recent name="C:\Users\Азиз\OneDrive\Рабочий стол\MYPROJECT\job" />
+      <recent name="C:\Users\Азиз\OneDrive\Рабочий стол\MYPROJECT\htmlcss" />
+      <recent name="C:\Users\Азиз\OneDrive\Рабочий стол\MYPROJECT\uslugi" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Азиз\OneDrive\Рабочий стол\MYPROJECT\contact\image" />
+      <recent name="C:\Users\Азиз\OneDrive\Рабочий стол\MYPROJECT\job\image" />
+      <recent name="C:\Users\Азиз\OneDrive\Рабочий стол\MYPROJECT\image" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e711943b-62d9-40ad-af00-df5b47a886a7" name="Default Changelist" comment="" />
+      <created>1669550780308</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669550780308</updated>
+      <workItem from="1669550781804" duration="6676000" />
+      <workItem from="1669716115552" duration="2888000" />
+      <workItem from="1669719265598" duration="3583000" />
+      <workItem from="1669738659593" duration="6055000" />
+      <workItem from="1669881392442" duration="3010000" />
+      <workItem from="1669889507808" duration="29000" />
+      <workItem from="1669889822922" duration="13463000" />
+      <workItem from="1670061673692" duration="1120000" />
+      <workItem from="1670062810408" duration="1448000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

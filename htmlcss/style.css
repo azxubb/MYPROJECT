@@ -1,0 +1,147 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    border: none;
+    box-sizing: border-box;
+    font-family: 'Manrope', sans-serif;
+    text-decoration: none;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+    background: white;
+}
+
+header{
+     background: white;
+ }
+.header_top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header_top ul{
+    display: flex;
+    gap: 30px;
+}
+.header_top button{
+    padding: 14px 33px 14px 40px;
+    background: linear-gradient(115.11deg, #F32C6D 10.12%, #CB1D95 100.01%);
+    border-radius: 9px;
+    color: white;
+}
+button:hover{
+    cursor: pointer;
+}
+main{
+    background: #F7F6FF;
+    padding-bottom: 20px;
+}
+.sec .container{
+    background: #F7F6FF;
+    display: flex;
+    justify-content: space-between;
+}
+.main_left{
+    padding-top: 108px;
+}
+.main_left h3{
+    font-size: 35px;
+}
+.main_left h2{
+    font-size: 45px;
+    margin-top: 6px;
+}
+.main_left p{
+    margin-top: 14px;
+}
+.main_left button{
+    margin-top: 30px;
+}
+.b1{
+    padding: 14px 30px;
+    background: #77B2D3;
+    border-radius: 250px;
+    color: white;
+}
+.b2{
+    padding: 14px 13px 14px 23px;
+    background: #77B2D3;
+    border-radius: 250px;
+    color: white;
+}
+.b3{
+    padding: 14px 41px;
+    background: #77B2D3;
+    border-radius: 250px;
+    color: white;
+}
+.main_right{
+    margin-top: 82px;
+}
+.sec1 .container{
+    background: #FFFFFF;
+    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.08);
+    border-radius: 20px;
+    margin-top: 80px;
+    height: 255px;
+}
+.main_top{
+    margin-left: 55px;
+    padding-top: 40px;
+    font-size: 20px;
+}
+.main_box{
+    display: flex;
+    margin-top: 50px;
+    justify-content: space-around;
+}
+.main_box h2{
+  color: #F32C6D;
+    font-size: 35px;
+}
+.box1{
+    position: relative;
+}
+.box1:after{
+    content: "";
+    display: block;
+    width: 2px;
+    height: 86px;
+    background: gray;
+    position: absolute;
+    right: -50%;
+    top: -30%;
+}
+.box2{
+    position: relative;
+}
+.box2:after{
+    content: "";
+    display: block;
+    width: 3px;
+    height: 86px;
+    background: gray;
+    position: absolute;
+    right: -30%;
+    top: -30%;
+}
+.box3{
+    position: relative;
+}
+.box3:after{
+    content: "";
+    display: block;
+    width: 2px;
+    height: 86px;
+    background: gray;
+    position: absolute;
+    right: -50%;
+    top: -30%;
+}
+a{
+    color: black;
+}
+
+

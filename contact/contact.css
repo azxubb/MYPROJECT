@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    border: none;
+    box-sizing: border-box;
+    font-family: 'Manrope', sans-serif;
+    text-decoration: none;
+    outline: none;
+}
+.container{
+    width: 1140px;
+    margin: 0 auto;
+}
+header{
+    background: white;
+}
+.header_top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header_top ul{
+    display: flex;
+    gap: 30px;
+}
+.header_top button{
+    padding: 14px 33px 14px 40px;
+    background: linear-gradient(115.11deg, #F32C6D 10.12%, #CB1D95 100.01%);
+    border-radius: 9px;
+    color: white;
+}
+.sec3{
+    background: #F7F6FF;
+    padding-bottom: 80px;
+}
+.sec3 .container{
+    display: flex;
+}
+.con_left p{
+    margin-top: 22px;
+}
+.con_left{
+    padding-top: 50px;
+}
+.con_right{
+    margin-left: 30px;
+}
+.con_left button{
+    padding: 14px 55px;
+    background: linear-gradient(115.11deg, #F32C6D 10.12%, #CB1D95 100.01%);
+    border-radius: 9px;
+    color: #FFFFFF;
+}
+input{
+    width: 270px;
+    height: 60px;
+    box-shadow: 0 4px 18px rgba(0, 0, 0, 0.08);
+    border-radius: 7px;
+}
+.input_top{
+    margin-top: 22px;
+}
+.input_top input{
+    padding-left: 15px;
+}
+.input_chek input{
+    width: 40px;
+    height: 30px;
+    margin-top: 20px;
+    display: flex;
+}
+.input_chek{
+    display: flex;
+    align-items: center;
+}
+.vopros{
+    width: 570px;
+    height: 140px;
+    margin-top: 20px;
+}
+.bayton{
+    margin-top: 20px;
+}
+button:hover{
+    cursor: pointer;
+}
+footer .container{
+    height: 270px;
+}
+.footer_box{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+}
+.footer_box li{
+    column-gap: 13px;
+}
+.footbat{
+    padding: 14px 40px;
+    background: linear-gradient(115.11deg, #F32C6D 10.12%, #CB1D95 100.01%);
+    border-radius: 9px;
+    color: #FFFFFF;
+    margin-top: 22px;
+}
+.footer_right p{
+    margin-bottom: 13px;
+    margin-top: 18px;
+}
+.footer_center p{
+    margin-bottom: 13px;
+    margin-top: 18px;
+}
+.sec5{
+    background: black;
+    height: 36px;
+}
+.sec5 p{
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 10px;
+}
